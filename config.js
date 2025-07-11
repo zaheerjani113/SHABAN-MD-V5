@@ -25,7 +25,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "💌💕ZAHEER J@Ni💕💌",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
